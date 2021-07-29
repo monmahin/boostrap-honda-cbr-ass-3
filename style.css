@@ -1,0 +1,12 @@
+body{font-family: 'Poppins', sans-serif;}
+.fw-nav{font-weight: 500;}
+.bg-color{background-color: #264653
+    ;}
+
+    .grayscale{-webkit-filter: grayscale(100%);
+        filter: grayscale(100%);}
+        .text-orange{color: #E76F51;}
+        .btn-orange{color: white; background-color:#E76F51; border-radius: 5px; border: 0; font-weight:500;}
+       .text-person{ color: #23A6F0;}
+       .accordion-hover:hover {background-color: #00a2ff; color: whitesmoke; font-weight: 600;}
+       .bg-accordion:hover {box-shadow: 10px 10px 5px rgb(183, 185, 185);}
